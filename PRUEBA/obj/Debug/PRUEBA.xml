@@ -1,0 +1,236 @@
+﻿<?xml version="1.0"?>
+<doc>
+<assembly>
+<name>
+PRUEBA
+</name>
+</assembly>
+<members>
+<member name="T:PRUEBA.My.Resources.Resources">
+<summary>
+  Clase de recurso fuertemente tipado, para buscar cadenas traducidas, etc.
+</summary>
+</member>
+<member name="P:PRUEBA.My.Resources.Resources.ResourceManager">
+<summary>
+  Devuelve la instancia de ResourceManager almacenada en caché utilizada por esta clase.
+</summary>
+</member>
+<member name="P:PRUEBA.My.Resources.Resources.Culture">
+<summary>
+  Reemplaza la propiedad CurrentUICulture del subproceso actual para todas las
+  búsquedas de recursos mediante esta clase de recurso fuertemente tipado.
+</summary>
+</member>
+<member name="P:PRUEBA.My.Resources.Resources.categorias">
+<summary>
+  Busca un recurso adaptado de tipo System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:PRUEBA.My.Resources.Resources.detalles">
+<summary>
+  Busca un recurso adaptado de tipo System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:PRUEBA.My.Resources.Resources.empleado">
+<summary>
+  Busca un recurso adaptado de tipo System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:PRUEBA.My.Resources.Resources.fondo_categoria">
+<summary>
+  Busca un recurso adaptado de tipo System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:PRUEBA.My.Resources.Resources.fondo_detalle">
+<summary>
+  Busca un recurso adaptado de tipo System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:PRUEBA.My.Resources.Resources.fondo_empleados">
+<summary>
+  Busca un recurso adaptado de tipo System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:PRUEBA.My.Resources.Resources.fondo_farmacia">
+<summary>
+  Busca un recurso adaptado de tipo System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:PRUEBA.My.Resources.Resources.fondo_home">
+<summary>
+  Busca un recurso adaptado de tipo System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:PRUEBA.My.Resources.Resources.fondo_productos">
+<summary>
+  Busca un recurso adaptado de tipo System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:PRUEBA.My.Resources.Resources.fondo_proveedores">
+<summary>
+  Busca un recurso adaptado de tipo System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:PRUEBA.My.Resources.Resources.productos">
+<summary>
+  Busca un recurso adaptado de tipo System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:PRUEBA.My.Resources.Resources.proveedor">
+<summary>
+  Busca un recurso adaptado de tipo System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:PRUEBA.My.Resources.Resources.salir">
+<summary>
+  Busca un recurso adaptado de tipo System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="T:PRUEBA.ALMACEN_FARMACIADataSet">
+<summary>
+Represents a strongly typed in-memory cache of data.
+</summary>
+</member>
+<member name="T:PRUEBA.ALMACEN_FARMACIADataSet.CATEGORIASDataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:PRUEBA.ALMACEN_FARMACIADataSet.DETALLE_DE_ALMACENDataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:PRUEBA.ALMACEN_FARMACIADataSet.EMPLEADOSDataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:PRUEBA.ALMACEN_FARMACIADataSet.PRODUCTOSDataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:PRUEBA.ALMACEN_FARMACIADataSet.PROVEEDORDataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:PRUEBA.ALMACEN_FARMACIADataSet.CATEGORIASRow">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:PRUEBA.ALMACEN_FARMACIADataSet.DETALLE_DE_ALMACENRow">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:PRUEBA.ALMACEN_FARMACIADataSet.EMPLEADOSRow">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:PRUEBA.ALMACEN_FARMACIADataSet.PRODUCTOSRow">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:PRUEBA.ALMACEN_FARMACIADataSet.PROVEEDORRow">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:PRUEBA.ALMACEN_FARMACIADataSet.CATEGORIASRowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:PRUEBA.ALMACEN_FARMACIADataSet.DETALLE_DE_ALMACENRowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:PRUEBA.ALMACEN_FARMACIADataSet.EMPLEADOSRowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:PRUEBA.ALMACEN_FARMACIADataSet.PRODUCTOSRowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:PRUEBA.ALMACEN_FARMACIADataSet.PROVEEDORRowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:PRUEBA.ALMACEN_FARMACIADataSetTableAdapters.CATEGORIASTableAdapter">
+<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member>
+<member name="T:PRUEBA.ALMACEN_FARMACIADataSetTableAdapters.DETALLE_DE_ALMACENTableAdapter">
+<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member>
+<member name="T:PRUEBA.ALMACEN_FARMACIADataSetTableAdapters.EMPLEADOSTableAdapter">
+<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member>
+<member name="T:PRUEBA.ALMACEN_FARMACIADataSetTableAdapters.PRODUCTOSTableAdapter">
+<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member>
+<member name="T:PRUEBA.ALMACEN_FARMACIADataSetTableAdapters.PROVEEDORTableAdapter">
+<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member>
+<member name="T:PRUEBA.ALMACEN_FARMACIADataSetTableAdapters.TableAdapterManager">
+<summary>
+TableAdapterManager is used to coordinate TableAdapters in the dataset to enable Hierarchical Update scenarios
+</summary>
+</member>
+<member name="M:PRUEBA.ALMACEN_FARMACIADataSetTableAdapters.TableAdapterManager.UpdateUpdatedRows(PRUEBA.ALMACEN_FARMACIADataSet,System.Collections.Generic.List{System.Data.DataRow},System.Collections.Generic.List{System.Data.DataRow})">
+<summary>
+Update rows in top-down order.
+</summary>
+</member>
+<member name="M:PRUEBA.ALMACEN_FARMACIADataSetTableAdapters.TableAdapterManager.UpdateInsertedRows(PRUEBA.ALMACEN_FARMACIADataSet,System.Collections.Generic.List{System.Data.DataRow})">
+<summary>
+Insert rows in top-down order.
+</summary>
+</member>
+<member name="M:PRUEBA.ALMACEN_FARMACIADataSetTableAdapters.TableAdapterManager.UpdateDeletedRows(PRUEBA.ALMACEN_FARMACIADataSet,System.Collections.Generic.List{System.Data.DataRow})">
+<summary>
+Delete rows in bottom-up order.
+</summary>
+</member>
+<member name="M:PRUEBA.ALMACEN_FARMACIADataSetTableAdapters.TableAdapterManager.GetRealUpdatedRows(System.Data.DataRow[],System.Collections.Generic.List{System.Data.DataRow})">
+<summary>
+Remove inserted rows that become updated rows after calling TableAdapter.Update(inserted rows) first
+</summary>
+</member>
+<member name="M:PRUEBA.ALMACEN_FARMACIADataSetTableAdapters.TableAdapterManager.UpdateAll(PRUEBA.ALMACEN_FARMACIADataSet)">
+<summary>
+Update all changes to the dataset.
+</summary>
+</member>
+<member name="T:PRUEBA.ALMACEN_FARMACIADataSetTableAdapters.TableAdapterManager.UpdateOrderOption">
+<summary>
+Update Order Option
+</summary>
+</member>
+<member name="T:PRUEBA.ALMACEN_FARMACIADataSetTableAdapters.TableAdapterManager.SelfReferenceComparer">
+<summary>
+Used to sort self-referenced table's rows
+</summary>
+</member>
+</members>
+</doc>
